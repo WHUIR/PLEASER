@@ -2,7 +2,7 @@
 
 ## Quick Start
 
-> python main.py
+> python main_rec.py
 
 ## Citation
 
