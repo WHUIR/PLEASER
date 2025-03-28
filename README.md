@@ -1,4 +1,4 @@
-# Efficient and Explainable Sequential Recommendation with Language Model
+# [Efficient and Explainable Sequential Recommendation with Language Model](https://www.sciencedirect.com/science/article/pii/S0306457325000640)
 
 ## Quick Start
 
