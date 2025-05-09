@@ -1,6 +1,7 @@
 # Readme
 
-Download the raw data from https://nijianmo.github.io/amazon/index.html, preprocessing the reviews and records based on the scripts. Let's the Office dataset as an example, the preprocessed dataset should be:
+The datasets in our experiments are derived from two primary sources: (1) the raw meta information (e.g., title, review) downloaded from [Amazon review](https://nijianmo.github.io/amazon/index.html) and (2) the preprocessed interactions (i.e., item sequences) obtained from [UniSRec](https://github.com/RUCAIBox/UniSRec). 
+Please preprocess the reviews and records based on the scripts. Let's take the Office dataset as an example, the preprocessed dataset should be:
 
 ```
 Office
@@ -17,3 +18,5 @@ Office
 ├─Office_products_5.json
 └stmap.pkl
 ```
+
+Or you can download the processed datasets from [here]().
