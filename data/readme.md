@@ -1,6 +1,6 @@
 # Readme
 
-The datasets in our experiments are derived from two primary sources: 
+The datasets in our experiments are derived from two sources: 
 - the raw meta information (e.g., title, review) downloaded from [Amazon review](https://nijianmo.github.io/amazon/index.html).
 - the preprocessed interactions (i.e., item sequences) obtained from [UniSRec](https://github.com/RUCAIBox/UniSRec). 
 
